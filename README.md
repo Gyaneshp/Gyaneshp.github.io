@@ -1,7 +1,7 @@
 # Gyaneshp.github.io
 Let's advanced the Project together!
 
-BlackJack: Online Casino
+## BlackJack: Online Casino
 
 import random
 playerIn = True
